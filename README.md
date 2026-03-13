@@ -1,5 +1,5 @@
-valari is  sovergin os that uses no alien code it's completely independent.I now have two when i find the other valari
-you may read the code #!/bin/bash
+valari is  sovergin os that uses no alien code it's completely independent,now have two when i find the other valari.
+you may read the code                                                                                                                                             #!/bin/bash
 # =============================================================================
 # VALARI OS - PROPRIETARY 
 # All Rights Reserved / All Rights Reversed
